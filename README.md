@@ -1,7 +1,7 @@
 # AccessMongo
 
 Requirements:
-- AccessMongo attempts to access and interact with a local Mongo Database. So, a running database is required.
+- AccessMongo attempts to access and interact with a local Mongo Database. So, a running database is required.\n
       - Instructions for installing and running a local Mongo Database can be found:
               - For Mac using HomeBrew: https://github.com/mongodb/homebrew-brew?tab=readme-ov-file
               - For Ubuntu: https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
