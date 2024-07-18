@@ -216,8 +216,8 @@ def main():
     #ADD OTHER FUNCTIONALITY HERE
     '''
     id = '1000' #Random for now
-    image_path = '/Users/marcusw/Downloads/HW Folders/Summer 24/Learning/test_mongo/tester_image.jpg'
-    feature_path = '/Users/marcusw/Downloads/HW Folders/Summer 24/Learning/test_mongo/tester_array.npy'
+    image_path = 'tester.jpg'
+    feature_path = 'tester.npy'
 
     #delete(collection, id)
 
